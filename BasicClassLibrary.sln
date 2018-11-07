@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicClassLibrary", "BasicClassLibrary\BasicClassLibrary.csproj", "{79591387-ED96-4C50-AC4B-5576A8F438FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTestApp", "WPFTestApp\WPFTestApp.csproj", "{6D6F583F-7547-4699-8DA0-26141C5136E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79591387-ED96-4C50-AC4B-5576A8F438FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79591387-ED96-4C50-AC4B-5576A8F438FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79591387-ED96-4C50-AC4B-5576A8F438FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79591387-ED96-4C50-AC4B-5576A8F438FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6F583F-7547-4699-8DA0-26141C5136E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6F583F-7547-4699-8DA0-26141C5136E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6F583F-7547-4699-8DA0-26141C5136E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6F583F-7547-4699-8DA0-26141C5136E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9730381-044C-49D5-B30B-B6722C0BE896}
+	EndGlobalSection
+EndGlobal

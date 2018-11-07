@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="WPFTestApp.View.StatusBarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPFTestApp.View"
+             xmlns:viewModel="clr-namespace:WPFTestApp.ViewModel"
+             mc:Ignorable="d">
+    <!--:DataContext="{d:DesignInstance viewModel:StatusBarViewModel}"-->
+    <StatusBar>
+        <StatusBarItem>Jarosław Knapiński</StatusBarItem>
+        <Separator Style="{StaticResource MetroStatusBarSeparator}" />
+        <StatusBarItem Content="{Binding ProjectNameAndVersion}"/>
+        <Separator Style="{StaticResource MetroStatusBarSeparator}" />
+        <StatusBarItem Content="{Binding Message, ValidatesOnNotifyDataErrors=True}"/>
+    </StatusBar>
+</UserControl>

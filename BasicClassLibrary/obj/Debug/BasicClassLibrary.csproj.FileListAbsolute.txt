@@ -1,0 +1,10 @@
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\bin\Debug\NLog.config
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\bin\Debug\BasicClassLibrary.dll
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\bin\Debug\BasicClassLibrary.pdb
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\bin\Debug\NLog.dll
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\bin\Debug\NLog.xml
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\obj\Debug\BasicClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\obj\Debug\BasicClassLibrary.csproj.CopyComplete
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\obj\Debug\BasicClassLibrary.dll
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\obj\Debug\BasicClassLibrary.pdb
+C:\Users\JRK\Desktop\Praca\MyLibrary\BasicClassLibrary\BasicClassLibrary\obj\Debug\BasicClassLibrary.csprojAssemblyReference.cache
